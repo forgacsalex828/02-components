@@ -13,4 +13,9 @@
 </template>
 
 <style scoped>
+    nav {
+        background-color: #333;
+        color: #fff;
+        padding: 1rem;
+    }
 </style>
